@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "practical03-solution",
-    "slug": "practical03-solution",
+    "name": "practical03-starter",
+    "slug": "practical03-starter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
